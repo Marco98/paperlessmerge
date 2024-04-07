@@ -1,5 +1,8 @@
 # PaperlessMerge
 
+> [!NOTE]  
+> Archived - obsolete with Paperless-ngx 2.7
+
 PaperlessMerge can easily merge documents in paperless-ng(x)
 
 ## Usage
